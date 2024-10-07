@@ -12,10 +12,7 @@ To run this project, ensure you have the following installed on your machine:
 
 1. **RabbitMQ Server**: Follow the installation instructions [here](https://www.rabbitmq.com/download.html).
 2. **Erlang**: RabbitMQ requires Erlang to run. You can download it [here](https://www.erlang.org/downloads).
-3. **Pika Library**: This library is used for connecting Python applications to RabbitMQ. You can install it using pip:
-
-   ```bash
-   pip install pika
+3. **Pika Library**: This library is used for connecting Python applications to RabbitMQ. You can install it using pip.
 
 ##Files
 -send.py         # Sender script that sends messages to the RabbitMQ queue
